@@ -7,10 +7,12 @@ redirect_from:
 ---
 
 
+You can contact me via email at **pedrohenriquepezzi[at]gmail[dot]com**
+<br>
+You can reach out to me through any social media platforms listed on the sidebar!
+<br>
+I'll do my best to respond *asap*. 
 
-
-You can reach out to me through any social media platforms listed on the side, and I'll do my best to respond asap. 
-Additionally, you can contact me via email at **pedrohenriquepezzi[at]gmail[dot]com**
 
 
 
