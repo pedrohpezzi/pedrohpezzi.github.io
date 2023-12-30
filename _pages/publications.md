@@ -20,7 +20,7 @@ Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turche
 ## 2022
 **5.** Wheeler, L. C.\*, Walker, J. F.\*, Ng, J., Deanna, R., Dunbar-Wallis, A., Backes, A., **Pezzi, P. H.**, Palchetti, M. V., Robertson, H. M., Monaghan, A., Freitas, L. B., Barboza, G. E., Moyroud, E.\*, & Smith, S. D.\* (2022). Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway. *Molecular Biology and Evolution*, 39, msac044. [[link]](https://doi.org/10.1093/molbev/msac044) \*These authors contributed equally to this work.
 
-**4.** Goncalves, L. T., **Pezzi, P. H.**, & Bianchi, F. M. (2022). Four new stink bug mitogenomes corroborate the internal inconsistencies in the classification of Pentatomidae (Hemiptera). *Zootaxa*, 5120, 128-142. [[link]](https://doi.org/10.11646/zootaxa.5120.1.8)
+**4.** Gonçalves, L. T., **Pezzi, P. H.**, & Bianchi, F. M. (2022). Four new stink bug mitogenomes corroborate the internal inconsistencies in the classification of Pentatomidae (Hemiptera). *Zootaxa*, 5120, 128-142. [[link]](https://doi.org/10.11646/zootaxa.5120.1.8)
 
 **3.** **Pezzi, P. H.**, Guzmán-Rodriguez, S., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. (2022). A convoluted tale of hybridization between two *Petunia* species from a transitional zone in South America. *Perspectives in Plant Ecology, Evolution and Systematics*, 56, 125688. [[link]](https://doi.org/10.1016/j.ppees.2022.125688)
 
