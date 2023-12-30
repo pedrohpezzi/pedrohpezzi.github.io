@@ -3,7 +3,7 @@ permalink: /contact/
 title: 'Contact'
 author_profile: true
 redirect_from:
-  - /md/
+  - /contact/
 ---
     
 You can contact me via email at **pedrohenriquepezzi[at]gmail[dot]com**.  
