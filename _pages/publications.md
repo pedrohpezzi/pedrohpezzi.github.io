@@ -10,7 +10,7 @@ Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., B
 Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. *submitted*. Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. \*These authors contributed equally to this work
 
 ## 2023
-[**7.**](https://doi.org/10.1590/1678-4685-GMB-2023-0121) **Pezzi, P. H.**\*, Gonçalves, L. T.\*, Deprá, M., & Freitas, L. B. D. (2023). Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. *Genetics and Molecular Biology*, 46, e20230121. doi: 10.1590/1678-4685-GMB-2023-0121 \*These authors contributed equally to this work.
+[**7.**](https://doi.org/10.1590/1678-4685-GMB-2023-0121) **Pezzi, P. H.**\*, Gonçalves, L. T.\*, Deprá, M., & Freitas, L. B. (2023). Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. *Genetics and Molecular Biology*, 46, e20230121. doi: 10.1590/1678-4685-GMB-2023-0121 \*These authors contributed equally to this work.
 
 [**6.**](https://doi.org/10.1080/17550874.2023.2274842) Backes, A., **Pezzi, P. H.**, Gonçalves, L. T., Greppi, J. A., & Freitas, L. B. (2023). Integrating morphology, niche modelling, and molecular data to disentangle taxonomic challenges in a species complex of *Calibrachoa* (Solanaceae). *Plant Ecology & Diversity*, 16, 1-13. doi: 10.1080/17550874.2023.2274842
 
