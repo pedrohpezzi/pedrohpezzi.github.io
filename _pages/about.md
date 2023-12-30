@@ -12,4 +12,4 @@ I grew up in Caxias do Sul, Rio Grande do Sul, Brazil 🇧🇷, and later reloca
 
 My research interests include, but are not limited to, phylogenomics, plant evolution, hybridization, and population genetics. I am also committed to fostering an inclusive and diverse scientific community. 🏳️‍🌈🪴🔬
 
-Outside of my scientific pursuits, I enjoy reading thrillers and mysteries, listening to pop music, and exploring new places around the world.
+Outside academia, I enjoy reading thrillers and mysteries, listening to pop music, swimming, and exploring new places around the world. 
