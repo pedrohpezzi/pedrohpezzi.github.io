@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 redirect_from:
   - /papers/
+  - /md/
 ---
 
 ## Submitted
