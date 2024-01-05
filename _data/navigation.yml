@@ -13,8 +13,8 @@ main:
     #url: /cv/
     url: /files/CV_PedroPezzi_Nov2023.pdf
     
-  - title: "Fieldwork"
-    url: /fieldwork/
+#  - title: "Fieldwork"
+#    url: /fieldwork/
 
   - title: "Resources"
     url: /resources/
