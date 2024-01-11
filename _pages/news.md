@@ -6,7 +6,7 @@ author_profile: true
 
 ## Argentina time!   
 #### Date: November 16, 2023
-Thanks to an [ESEB grant](https://eseb.org/prizes-funding/godfrey-hewitt-mobility-award/), I had the opportunity to adventure myself in cytogenetics at Dr. Rocio Deanna's lab in Cordoba, Argentina. I spent a month there, where I learned a lot and had the pleasure of meeting some amazing people and collaborators (Amália Ibiapino, David Hoyos, Juan D. Urdampilleta). I was fortunate enough to explore the beautiful Argentinean landscape and indulge in its amazing cuisine (🥐 media lunas for breakfast - delicious!). I would like to express my gratitude to everyone for the warm welcome and the wonderful experience! 💖
+Thanks to the [ESEB Godfrey Hewitt Mobility Award](https://eseb.org/prizes-funding/godfrey-hewitt-mobility-award/), I had the opportunity to adventure myself in cytogenetics at Dr. Rocio Deanna's lab in Cordoba, Argentina. I spent a month there, where I learned a lot and had the pleasure of meeting some amazing people and collaborators (Amália Ibiapino, David Hoyos, Juan D. Urdampilleta). I was fortunate enough to explore the beautiful Argentinean landscape and indulge in its amazing cuisine (🥐 media lunas for breakfast - delicious!). I would like to express my gratitude to everyone for the warm welcome and the wonderful experience! 💖
 
 Here are some pictures from that amazing month!
 
