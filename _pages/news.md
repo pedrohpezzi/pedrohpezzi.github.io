@@ -4,9 +4,24 @@ permalink: /news/
 author_profile: true
 ---
 
+
+## WANTED 🕵 *Calibrachoa ovalifolia*
+#### 📅 December 6, 2023
+Alice and I visited Morro do Osso (Porto Alegre, RS, Brazil) in search of the different morphotypes of *Calibrachoa ovalifolia*. Alice is using genomic data to determine whether these variations represent merely different colorations (that could change with the individual's age), hybrids between a light and a dark corolla species, or potentially even a distinct species. In the same area, we can also find *Calibrachoa excellens* - which displays a much darker purple corolla - and *Petunia integrifola*. Stay tuned for exciting results coming soon!
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/images/fieldtrip1.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/C_excellens1.jpg" width="375" style="margin: 5px;" >
+  <img src="/images/c_ovalifolia1.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/fieldtrip2.jpg" width="375" style="margin: 5px;" >  
+  <img src="/images/c_ovalifolia2.jpg" width="375" style="margin: 5px;" >
+  <img src="/images/p_integrifolia1.jpeg" width="375" style="margin: 5px;" >    
+</div>
+
+-----
 ## Argentina time!   
 #### 📅 November 16, 2023
-Thanks to the [ESEB Godfrey Hewitt Mobility Award](https://eseb.org/prizes-funding/godfrey-hewitt-mobility-award/), I had the opportunity to adventure myself in cytogenetics at Dr. Rocio Deanna's lab in Cordoba, Argentina. I spent a month there, where I learned a lot and had the pleasure of meeting some amazing people and collaborators (Amália Ibiapino, David Hoyos, Juan D. Urdampilleta). I was fortunate enough to explore the beautiful Argentinean landscape and indulge in its amazing cuisine (🥐 media lunas for breakfast - delicious!). I would like to express my gratitude to everyone for the warm welcome and the wonderful experience! 💖
+Thanks to the [ESEB Godfrey Hewitt Mobility Award](https://eseb.org/prizes-funding/godfrey-hewitt-mobility-award/), I had the opportunity to adventure myself in cytogenetics at Dr. Rocio Deanna's lab in Cordoba, Argentina. I spent a month there, where I learned a lot and had the pleasure of meeting some amazing people and collaborators (Amália Ibiapino, David Hoyos, Juan D. Urdampilleta). I was fortunate enough to explore the beautiful Argentinean landscape and indulge in its amazing cuisine (🥐 media lunas for breakfast - delicious!). I want to express my gratitude to everyone for the warm welcome and the wonderful experience! 💖
 
 Here are some pictures from that amazing month!
 
