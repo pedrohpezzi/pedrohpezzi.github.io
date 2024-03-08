@@ -5,9 +5,14 @@ author_profile: true
 ---
 
 ## Submitted
+**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A. & Freitas, L. B. *submitted*. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of *Petunia*.
+
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Natural hybridization and the evolutionary dynamics of southern South American grasslands species under climate changes and habitat fragmentation. \*These authors contributed equally to this work
 
-Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. *submitted*. Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. \*These authors contributed equally to this work
+
+## Accepted
+
+**8.** Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. *submitted*. Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. \*These authors contributed equally to this work
 
 ## 2023
 [**7.**](https://doi.org/10.1590/1678-4685-GMB-2023-0121) **Pezzi, P. H.**\*, Gonçalves, L. T.\*, Deprá, M., & Freitas, L. B. (2023). Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. *Genetics and Molecular Biology*, 46, e20230121. doi: 10.1590/1678-4685-GMB-2023-0121 \*These authors contributed equally to this work.
