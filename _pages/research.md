@@ -3,7 +3,14 @@ permalink: /research/
 title: 'Research'
 author_profile: true
 
+
 ---
+
+## South American *Agalinis* diversification
+<img src="/images/Acommunis3.jpeg" width="400" align="right" >
+For my postdoc, Maribeth and I will focus on *Agalinis* (Orobanchaceae). This genus displays an intriguing biogeographic history: after colonizing South America, it experienced two rapid radiations, one in the Andean region and one in Brazil. In this project, we intend to investigate species' evolutionary relationships, the evolution of the hummingbird pollination syndrome, and interspecific hybridization. Stay tuned for updates on this!
+
+#### Collaborators (*in alphabetical order*): [Maribeth Latvis](https://maribethlatvis.wixsite.com/plantsyst)
 
 ## Hybridization and Diversification of *Petunia*
 <img src="/images/Pintegrifolia.jpg" width="400" align="right" >
