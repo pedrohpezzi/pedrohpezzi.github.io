@@ -8,7 +8,7 @@ author_profile: true
 
 ## Diversification of South American *Agalinis*
 <img src="/images/Acommunis3.jpeg" width="350" align="right" >
-For my postdoc, [Dr. Maribeth Latvis](https://maribethlatvis.wixsite.com/plantsyst) and I will focus on *Agalinis* (Orobanchaceae). This genus displays an intriguing biogeographic history: it migrated from North America to South America, where it experienced two rapid radiations, one in the Andean region and one in Brazil. Additionally, all species are hemiparasitic, which makes them a super interesting system! We intend to investigate species' evolutionary relationships, the evolution of the hummingbird pollination syndrome, and interspecific hybridization. This project is still in its initial phase, so stay tuned for updates on this! 
+For my postdoc, [Dr. Maribeth Latvis](https://maribethlatvis.wixsite.com/plantsyst) and I will focus on *Agalinis* (Orobanchaceae). This genus displays an intriguing biogeographic history: it migrated from North America to South America, where it experienced rapid radiation, in the Andean region and in Brazil. Additionally, all species are hemiparasitic, which makes them a super interesting system! We intend to investigate species' evolutionary relationships, the evolution of the hummingbird pollination syndrome, and interspecific hybridization. This project is still in its initial phase, so stay tuned for updates on this! 
 
 #### Collaborators (*in alphabetical order*): [Maribeth Latvis](https://maribethlatvis.wixsite.com/plantsyst)
 
