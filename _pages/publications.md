@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## Submitted
-**Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. *submitted*. Incomplete lineage sorting and hybridization as drivers of tree discordance in *Petunia* and related genera (Petunieae, Solanaceae)
+**Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. *submitted*. Incomplete lineage sorting and hybridization as drivers of tree discordance in *Petunia* and related genera (Petunieae, Solanaceae).
 
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of *Petunia*.
 
