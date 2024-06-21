@@ -3,6 +3,20 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+## BOTANY 2024
+#### 📅 June 21, 2024
+
+I had the chance to attend the BOTANY conference **in person** for the first time! It was so much fun—I met amazing people, gave my first talk at a conference, and learned so much about the cool science everyone is doing. I was also lucky enough to be part of the [PLANTS program](https://cms.botany.org/home/awards/travel-awards-for-students/plants-grants.html#:~:text=The%20PLANTS%20program%20seeks%20to,botanical%20interests%2C%20and%20career%20goals.), where I got to share experiences with Elizabeth Mandala and Kandiss Dowdell. Big thanks to everyone in the Latvis lab for the company, as well as to the BSA, the PLANTS program, and everyone who made this experience so enjoyable! This was also my first time in Michigan, and we got to see a beautiful sunset at the beach (the water was cold, but it was so worth it!).
+
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="/images/LatvisLabBotany.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/BotanyPresentation.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/GrandRapids.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/LatvisLab_MichiganBeach.jpeg" width="375" style="margin: 5px;" >  
+</div>
+-----
+
 ## I'm officially a postdoc!
 #### 📅 March 5, 2024
 Great news! I've just relocated to Fayetteville, Arkansas, to start a postdoctoral position at [Maribeth Latvis](https://maribethlatvis.wixsite.com/plantsyst)'s lab at the University of Arkansas. We will focus on the South American *Agalinis* species, an intriguing system as they migrated from North America to South America, where they underwent two rapid radiations—one in the Andean region and another in Brazil—and hummingbird pollination evolved at least twice. During my time in Brazil, I had the opportunity to observe *A. communis* in its natural habitat (left photos), which happened to be on my old campus! I'm thrilled to start this new chapter of my academic journey and grateful for the warm welcome by the team at the Latvis lab! Go Razorbacks! 🐗
