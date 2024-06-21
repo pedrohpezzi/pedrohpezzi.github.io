@@ -20,7 +20,7 @@ author_profile: true
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Natural hybridization and the evolutionary dynamics of southern South American grasslands species under climate changes and habitat fragmentation. \*These authors contributed equally to this work
 
 ## Accepted
-**Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. *submitted*. Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, accepted. [*preprint*](https://doi.org/10.32942/X21W31)
+**Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. *accepted*. Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*. [*preprint*](https://doi.org/10.32942/X21W31)
 
 ## 2024
 
