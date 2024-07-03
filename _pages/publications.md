@@ -4,25 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on June 21, 2024) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on July 03, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 45; h-index: 3
+&ensp; &nbsp; &nbsp; Citations: 48; h-index: 4
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on June 21, 2024) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on July 03, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 32; h-index: 2
+&ensp; &nbsp; &nbsp; Citations: 35; h-index: 3
 
 
 ## Submitted
 
-**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. How do novel evolutionary lineages arise in a biodiversity hotspot? Insights into the dynamics of rapid diversification of *Petunia*.
-
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Natural hybridization and the evolutionary dynamics of southern South American grasslands species under climate changes and habitat fragmentation. \*These authors contributed equally to this work
 
-## Accepted
-[**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. *accepted*. Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
-
 ## 2024
+[**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
 
 [**8.**](https://doi.org/10.1093/botlinnean/boae016) Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. (2024). Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. *Botanical Journal of the Linnean Society*, boae016. doi: 10.1093/botlinnean/boae016 \*These authors contributed equally to this work
 
