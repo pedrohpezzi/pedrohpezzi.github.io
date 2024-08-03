@@ -3,11 +3,25 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+
+## EVOLUTION 2024
+#### 📅 August 02, 2024
+
+The conference season of 2024 wrapped up with the Evolution conference in Montreal. I presented a talk about species delimitation in *Petunia*, which you can watch [here](https://youtu.be/yq3bXiqCWtc?si=V3ci9VIlC9mYgHOA&t=1511). Evolution is always a fun conference to attend. I had the chance to see some old friends, make new ones, and witness the amazing science on evolution being done worldwide. Special shoutout to the wonderful societies that organized the conference. Also, Montreal is a beautiful city with stunning sunsets, great food, and beautiful architecture. If you have the chance, visit the Montreal Botanical Garden. Merci beaucoup to everyone!
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="/images/EvolutionPresentation.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/MontrealSunset.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/CalibrachoaBotGard.jpeg" width="375" style="margin: 5px;" >
+  <img src="/images/Evolution2024.jpeg" width="375" style="margin: 5px;" >  
+</div>
+
+-----
+
 ## BOTANY 2024
 #### 📅 June 21, 2024
 
 I had the chance to attend the BOTANY conference **in person** for the first time! It was so much fun—I met amazing people, gave my first talk at a conference, and learned so much about the cool science everyone is doing. I was also lucky enough to be part of the [PLANTS program](https://cms.botany.org/home/awards/travel-awards-for-students/plants-grants.html#:~:text=The%20PLANTS%20program%20seeks%20to,botanical%20interests%2C%20and%20career%20goals.), where I got to share experiences with Elizabeth Mandala and Kandiss Dowdell. Big thanks to everyone in the Latvis lab for the company, as well as to the BSA, the PLANTS program, and everyone who made this experience so enjoyable! This was also my first time in Michigan, and we got to see a beautiful sunset at the beach (the water was cold, but it was so worth it!).
-
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img src="/images/LatvisLabBotany.jpeg" width="375" style="margin: 5px;" >
@@ -15,6 +29,7 @@ I had the chance to attend the BOTANY conference **in person** for the first tim
   <img src="/images/GrandRapids.jpeg" width="375" style="margin: 5px;" >
   <img src="/images/LatvisLab_MichiganBeach.jpeg" width="375" style="margin: 5px;" >  
 </div>
+
 -----
 
 ## I'm officially a postdoc!
