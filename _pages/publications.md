@@ -4,16 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on July 03, 2024) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on August 09, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 48; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 49; h-index: 4
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on July 03, 2024) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on August 09, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 35; h-index: 3
+&ensp; &nbsp; &nbsp; Citations: 40; h-index: 4
 
 
 ## Submitted
+**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Evaluating the evolutionary origin of atypical *Petunia* populations in a hybridization hotspot.
 
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Natural hybridization and the evolutionary dynamics of southern South American grasslands species under climate changes and habitat fragmentation. \*These authors contributed equally to this work
 
