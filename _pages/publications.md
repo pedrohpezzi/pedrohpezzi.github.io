@@ -6,17 +6,17 @@ author_profile: true
 
 [**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on August 09, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 49; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 54; h-index: 4
 
 [**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on August 09, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 40; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 42; h-index: 4
 
 
 ## Submitted
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Evaluating the evolutionary origin of atypical *Petunia* populations in a hybridization hotspot.
 
-Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Natural hybridization and the evolutionary dynamics of southern South American grasslands species under climate changes and habitat fragmentation. \*These authors contributed equally to this work
+Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Interspecific hybridisation impacts genetic diversity in grassland species. \*These authors contributed equally to this work
 
 ## 2024
 [**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
