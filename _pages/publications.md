@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on August 09, 2024) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on September 25, 2024) 
 
 &ensp; &nbsp; &nbsp; Citations: 54; h-index: 4
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on August 09, 2024) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on September 25, 2024) 
 
 &ensp; &nbsp; &nbsp; Citations: 42; h-index: 4
 
