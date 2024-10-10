@@ -14,6 +14,9 @@ author_profile: true
 
 
 ## Submitted
+
+Gonçalves L. T., **Pezzi P. H.**, Montagner F. R. G., Souza W. V., Françoso E., & Deprá M. *submitted*. The genome of the bellicose bumblebee (*Bombus bellicosus*), a threatened pollinator in a changing South American landscape.
+
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Evaluating the evolutionary origin of atypical *Petunia* populations in a hybridization hotspot.
 
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Interspecific hybridisation impacts genetic diversity in grassland species. \*These authors contributed equally to this work
