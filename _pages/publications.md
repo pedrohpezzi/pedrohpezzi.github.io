@@ -4,20 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on September 25, 2024) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on October 22, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 54; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 57; h-index: 4
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on September 25, 2024) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on October 22, 2024) 
 
-&ensp; &nbsp; &nbsp; Citations: 42; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 43; h-index: 4
 
 
 ## Submitted
 
 Gonçalves L. T., **Pezzi P. H.**, Montagner F. R. G., Souza W. V., Françoso E., & Deprá M. *submitted*. The genome of the bellicose bumblebee (*Bombus bellicosus*), a threatened pollinator in a changing South American landscape.
 
-**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Evaluating the evolutionary origin of atypical *Petunia* populations in a hybridization hotspot.
+**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
 Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Interspecific hybridisation impacts genetic diversity in grassland species. \*These authors contributed equally to this work
 
