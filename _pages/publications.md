@@ -21,7 +21,7 @@ Gonçalves L. T., **Pezzi P. H.**, Montagner F. R. G., Souza W. V., Françoso E.
 
 
 ## Accepted
-Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *accepted*. Historical and Ongoing Hybridisation in Southern South American Grassland Species. \*These authors contributed equally to this work
+**10.** Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *accepted*. Historical and Ongoing Hybridisation in Southern South American Grassland Species. \*These authors contributed equally to this work
 
 ## 2024
 [**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
