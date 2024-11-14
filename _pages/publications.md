@@ -19,11 +19,9 @@ Gonçalves L. T., **Pezzi P. H.**, Montagner F. R. G., Souza W. V., Françoso E.
 
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
-
-## Accepted
-**10.** Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. *accepted*. Historical and Ongoing Hybridisation in Southern South American Grassland Species. <small>\*These authors contributed equally to this work</small>
-
 ## 2024
+[**10.**](https://doi.org/10.1038/s41598-024-79584-9) Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. (2024). Historical and Ongoing Hybridisation in Southern South American Grassland Species. *Scientific Reports*, 14, 27989. https://doi.org/10.1038/s41598-024-79584-9 <small>\*These authors contributed equally to this work</small>
+
 [**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
 
 [**8.**](https://doi.org/10.1093/botlinnean/boae016) Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. (2024). Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. *Botanical Journal of the Linnean Society*, boae016. doi: 10.1093/botlinnean/boae016 <small>\*These authors contributed equally to this work</small>
