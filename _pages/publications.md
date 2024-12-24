@@ -15,7 +15,9 @@ author_profile: true
 
 ## Submitted
 
-Gonçalves L. T., **Pezzi P. H.**, Montagner F. R. G., Souza W. V., Françoso E., & Deprá M. *submitted*. The genome of the bellicose bumblebee (*Bombus bellicosus*), a threatened pollinator in a changing South American landscape.
+**Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*. Can genetic diversity, population structure, and evolutionary history contribute to revealing hidden speciation? <small>\*These authors contributed equally to this work</small>
+
+Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. *submitted*. The genome of the bellicose bumblebee (*Bombus bellicosus*), a threatened pollinator in a changing South American landscape.
 
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
