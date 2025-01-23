@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## Submitted
-Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. *submitted*. <small>\*These authors contributed equally to this work</small>
+Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. <small>\*These authors contributed equally to this work</small>
 
 **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*. Can genetic diversity, population structure, and evolutionary history contribute to revealing hidden speciation? <small>\*These authors contributed equally to this work</small>
 
