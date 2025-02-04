@@ -18,12 +18,10 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 
 **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*. Can genetic diversity, population structure, and evolutionary history contribute to revealing hidden speciation? <small>\*These authors contributed equally to this work</small>
 
-
-
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
 ## Accepted
-**11.** Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. *accepted*. The nuclear and mitochondrial genomes of the bellicose bumblebee (Bombus bellicosus, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*.
+**11.** Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. *accepted*. The nuclear and mitochondrial genomes of the bellicose bumblebee (*Bombus bellicosus*, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*.
 
 ## 2024
 [**10.**](https://doi.org/10.1038/s41598-024-79584-9) Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. (2024). Historical and Ongoing Hybridisation in Southern South American Grassland Species. *Scientific Reports*, 14, 27989. https://doi.org/10.1038/s41598-024-79584-9 <small>\*These authors contributed equally to this work</small>
