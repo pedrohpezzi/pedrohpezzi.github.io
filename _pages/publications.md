@@ -21,7 +21,7 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
 ## 2025
-[**12.**](https://doi.org/10.1590/0001-3765202520240496) Soares, B. E., Moura, A. L., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B., including **Pezzi, P. H.** (2025). The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain. Anais da Academia Brasileira de Ciências, 97, e20240496. doi: 10.1590/0001-3765202520240496
+[**12.**](https://doi.org/10.1590/0001-3765202520240496) Soares, B. E., Moura, A. L., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B., including **Pezzi, P. H.** (2025). The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain. *Anais da Academia Brasileira de Ciências*, 97, e20240496. doi: 10.1590/0001-3765202520240496
 
 [**11.**](https://doi.org/10.1139/gen-2024-0166) Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. (2025). The nuclear and mitochondrial genomes of the bellicose bumblebee (*Bombus bellicosus*, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*, just-in. doi: 10.1139/gen-2024-0166
 
