@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on January 22, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 02, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 69; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 78; h-index: 4
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on January 22, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 02, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 53; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 56; h-index: 4
 
 
 ## Submitted
@@ -23,14 +23,14 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 ## 2025
 [**12.**](https://doi.org/10.1590/0001-3765202520240496) Soares, B. E., Moura, A. L., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B., including **Pezzi, P. H.** (2025). The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain. *Anais da Academia Brasileira de Ciências*, 97, e20240496. doi: 10.1590/0001-3765202520240496
 
-[**11.**](https://doi.org/10.1139/gen-2024-0166) Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. (2025). The nuclear and mitochondrial genomes of the bellicose bumblebee (*Bombus bellicosus*, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*, just-in. doi: 10.1139/gen-2024-0166
+[**11.**](https://doi.org/10.1139/gen-2024-0166) Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. (2025). The nuclear and mitochondrial genomes of the bellicose bumblebee (*Bombus bellicosus*, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*,  68, 1-10. doi: 10.1139/gen-2024-0166
 
 ## 2024
 [**10.**](https://doi.org/10.1038/s41598-024-79584-9) Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. (2024). Historical and Ongoing Hybridisation in Southern South American Grassland Species. *Scientific Reports*, 14, 27989. https://doi.org/10.1038/s41598-024-79584-9 <small>\*These authors contributed equally to this work</small>
 
-[**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
+[**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 198, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
 
-[**8.**](https://doi.org/10.1093/botlinnean/boae016) Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. (2024). Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. *Botanical Journal of the Linnean Society*, boae016. doi: 10.1093/botlinnean/boae016 <small>\*These authors contributed equally to this work</small>
+[**8.**](https://doi.org/10.1093/botlinnean/boae016) Souza, A. C.\*, Soares, L. S.\*, Backes, A., Simon, L., **Pezzi, P. H.**, Turchetto, C., & Freitas, L. B. (2024). Unraveling the genetic diversity and taxonomic ambiguities of endemic *Petunia* species from subtropical highland grasslands. *Botanical Journal of the Linnean Society*, 206, boae016. doi: 10.1093/botlinnean/boae016 <small>\*These authors contributed equally to this work</small>
 
 ## 2023
 [**7.**](https://doi.org/10.1590/1678-4685-GMB-2023-0121) **Pezzi, P. H.**\*, Gonçalves, L. T.\*, Deprá, M., & Freitas, L. B. (2023). Evolution and diversification of the O-methyltransferase (OMT) gene family in Solanaceae. *Genetics and Molecular Biology*, 46, e20230121. doi: 10.1590/1678-4685-GMB-2023-0121 <small>\*These authors contributed equally to this work</small>
@@ -49,15 +49,3 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 
 ## 2019
 [**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, 1-8. doi: 10.1590/2358-2936e2019010
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
