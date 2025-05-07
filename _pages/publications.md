@@ -16,7 +16,7 @@ author_profile: true
 ## Submitted
 Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. <small>\*These authors contributed equally to this work</small>
 
-**Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*. Can genetic diversity, population structure, and evolutionary history contribute to revealing hidden speciation? <small>\*These authors contributed equally to this work</small>
+**Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. <small>\*These authors contributed equally to this work</small>
 
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
 
@@ -26,7 +26,7 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 [**11.**](https://doi.org/10.1139/gen-2024-0166) Gonçalves, L. T., **Pezzi, P. H.**, Montagner, F. R. G., Souza, W. V., Françoso, E., & Deprá, M. (2025). The nuclear and mitochondrial genomes of the bellicose bumblebee (*Bombus bellicosus*, Hymenoptera: Apidae), a threatened pollinator in a changing South American landscape. *Genome*,  68, 1-10. doi: 10.1139/gen-2024-0166
 
 ## 2024
-[**10.**](https://doi.org/10.1038/s41598-024-79584-9) Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. (2024). Historical and Ongoing Hybridisation in Southern South American Grassland Species. *Scientific Reports*, 14, 27989. https://doi.org/10.1038/s41598-024-79584-9 <small>\*These authors contributed equally to this work</small>
+[**10.**](https://doi.org/10.1038/s41598-024-79584-9) Giudicelli, G. C.\*, **Pezzi, P. H.**\*, Guzmán-Rodriguez, S., Turchetto, C., Bombarely, A., & Freitas, L. B. (2024). Historical and Ongoing Hybridisation in Southern South American Grassland Species. *Scientific Reports*, 14, 27989. doi: 10.1038/s41598-024-79584-9 <small>\*These authors contributed equally to this work</small>
 
 [**9.**](https://doi.org/10.1016/j.ympev.2024.108136) **Pezzi, P. H.**, Wheeler, L. C., Freitas, L. B., & Smith, S. D. (2024). Incomplete lineage sorting and hybridization underlie tree discordance in *Petunia* and related genera (Petunieae, Solanaceae). *Molecular Phylogenetics and Evolution*, 198, 108136. doi: 10.1016/j.ympev.2024.108136 [*preprint*](https://doi.org/10.32942/X21W31)
 
@@ -48,4 +48,4 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 [**2.**](https://doi.org/10.1007/s10682-021-10101-4) Zimmermann, B. L., Cardoso, G. M., Bouchon, D., **Pezzi, P. H.**, Palaoro, A. V., & Araujo, P. B. (2021). Supergroup F *Wolbachia* in terrestrial isopods: Horizontal transmission from termites?. *Evolutionary Ecology*, 35, 165-182. doi: 10.1007/s10682-021-10101-4
 
 ## 2019
-[**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, 1-8. doi: 10.1590/2358-2936e2019010
+[**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, e2019010. doi: 10.1590/2358-2936e2019010
