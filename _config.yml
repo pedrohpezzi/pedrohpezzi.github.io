@@ -22,7 +22,7 @@ repository               : "pedrohpezzi/pedrohpezzi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/ProfilePedroPic.JPG"
+  avatar           : "ProfilePedroPic.JPG"
   name             : "Pedro Henrique Pezzi"
   pronouns         : "he/him"  
   bio              : "Postdoctoral Fellow at University of Arkansas"
