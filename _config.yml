@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Postdoctoral Fellow at University of Arkansas"
   location         : "Fayetteville, AR, USA"
-  employer         : "University of Arkansas at Fayetteville"
+  employer         : "University of Arkansas"
   uri              : # URL
   email            : "pedrohenriquepezzi@gmail.com" 
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "pedrohpezzi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "pedropezzi.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pedrohpezzi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
