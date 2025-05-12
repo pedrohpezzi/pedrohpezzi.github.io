@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I will try to provide the maximum amount of data, input files, and scripts that I used in my research. I hope that, just as many other researchers have helped me by sharing their data, I can also help others. If you don't find what you're looking for here, please feel free to contact me. ?? 
+I will try to provide the maximum amount of data, input files, and scripts that I used in my research. I hope that, just as many other researchers have helped me by sharing their data, I can also help others. If you don't find what you're looking for here, please feel free to contact me.
 
 ----
 
