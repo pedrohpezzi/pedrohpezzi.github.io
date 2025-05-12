@@ -1,5 +1,5 @@
 ---
-title: 'I'm a doctor now!'
+title: 'I am a doctor now!'
 date: 2023-10-11
 permalink: /posts/2023/10/phddefense/
 ---
