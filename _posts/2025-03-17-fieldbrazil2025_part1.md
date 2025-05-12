@@ -1,7 +1,7 @@
 ---
 title: 'Field trip in Brazil – Searching for *Agalinis* and *Esterhazya* species, Part I'
 date: 2025-03-17
-permalink: /posts/2025/03/fieldbrazil2025/
+permalink: /posts/2025/03/fieldbrazil2025_part1/
 tags:
 ---
 
