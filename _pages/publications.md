@@ -4,21 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 02, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 19, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 78; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 86; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 02, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 19, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 56; h-index: 4
-
-
-## Submitted
-Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. <small>\*These authors contributed equally to this work</small>
-
-**Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. <small>\*These authors contributed equally to this work</small>
-
-**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
+&ensp; &nbsp; &nbsp; Citations: 60; h-index: 4
 
 ## 2025
 [**12.**](https://doi.org/10.1590/0001-3765202520240496) Soares, B. E., Moura, A. L., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B., including **Pezzi, P. H.** (2025). The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain. *Anais da Academia Brasileira de Ciências*, 97, e20240496. doi: 10.1590/0001-3765202520240496
@@ -49,3 +41,10 @@ Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted
 
 ## 2019
 [**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, e2019010. doi: 10.1590/2358-2936e2019010
+
+## Submitted
+Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *submitted*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the evolutionary origins of Million Bells cultivars. <small>\*These authors contributed equally to this work</small>
+
+**Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *submitted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. <small>\*These authors contributed equally to this work</small>
+
+**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Population genomics reveals the evolutionary origin of atypical *Petunia* in a biodiversity hotspot from South American grasslands.
