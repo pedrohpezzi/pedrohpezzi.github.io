@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 19, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on June 04, 2025) 
 
 &ensp; &nbsp; &nbsp; Citations: 86; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 19, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on June 04, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 60; h-index: 4
+&ensp; &nbsp; &nbsp; Citations: 69; h-index: 5
 
 ## Accepted
 **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *accepted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. *Botanical Journal of the Linnean Society*. <small>\*These authors contributed equally to this work</small>
