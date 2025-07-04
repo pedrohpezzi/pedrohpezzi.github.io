@@ -13,11 +13,12 @@ author_profile: true
 &ensp; &nbsp; &nbsp; Citations: 69; h-index: 5
 
 ## Accepted
-Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *accepted*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*. <small>\*These authors contributed equally to this work</small>
 
 **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *accepted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. *Botanical Journal of the Linnean Society*. <small>\*These authors contributed equally to this work</small>
 
 ## 2025
+[**14.**](https://doi.org/10.1016/j.ympev.2025.108405) Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *in press*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*. doi: 10.1016/j.ympev.2025.108405 <small>\*These authors contributed equally to this work</small>
+
 [**13.**](https://doi.org/10.1093/gbe/evaf123) Gonçalves, L. T., **Pezzi, P. H.**, Deprá, M., & Françoso, E. (2025). Mitonuclear coevolution in bumblebees (*Bombus*): genomic signatures and its role in climatic niche adaptation. *Genome Biology and Evolution*, evaf123. doi: 10.1093/gbe/evaf123
 
 [**12.**](https://doi.org/10.1590/0001-3765202520240496) Soares, B. E., Moura, A. L., Araújo, V. N. D., Azevedo, N. H., Cardoso, A. C. A., Cardoso, M. R., ... & Vidor, C. B., including **Pezzi, P. H.** (2025). The “Conhecimento Brasil” Program neglects the structural problems of Brazilian science and fails to offer a solution to the brain drain. *Anais da Academia Brasileira de Ciências*, 97, e20240496. doi: 10.1590/0001-3765202520240496
