@@ -13,4 +13,4 @@ I am originally from Brazil and grew up in Caxias do Sul, Rio Grande do Sul - th
 
 My research interests include phylogenomics, plant evolution, hybridization, and population genetics. I am also committed to fostering an inclusive and diverse scientific community. 🏳️‍🌈🪴🔬
 
-Outside of academia, I enjoy reading thrillers and mysteries, listening to pop music, swimming, and exploring new places around the world.
+Outside of academia, I enjoy reading thrillers and mysteries, listening to pop music, swimming, board games and exploring new places around the world.
