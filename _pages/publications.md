@@ -4,20 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on June 04, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on July 15, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 86; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 99; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on June 04, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on July 15, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 69; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 71; h-index: 5
 
 ## Accepted
 
 **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. *accepted*.  Population structure and genetic diversity uncover hidden speciation in atypical *Petunia* (Solanaceae) populations. *Botanical Journal of the Linnean Society*. <small>\*These authors contributed equally to this work</small>
 
 ## 2025
-[**14.**](https://doi.org/10.1016/j.ympev.2025.108405) Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *in press*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*. doi: 10.1016/j.ympev.2025.108405 <small>\*These authors contributed equally to this work</small>
+[**14.**](https://doi.org/10.1016/j.ympev.2025.108405) Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. *in press*. Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*, 211, 108405. doi: 10.1016/j.ympev.2025.108405 <small>\*These authors contributed equally to this work</small>
 
 [**13.**](https://doi.org/10.1093/gbe/evaf123) Gonçalves, L. T., **Pezzi, P. H.**, Deprá, M., & Françoso, E. (2025). Mitonuclear coevolution in bumblebees (*Bombus*): genomic signatures and its role in climatic niche adaptation. *Genome Biology and Evolution*, 17, evaf123. doi: 10.1093/gbe/evaf123
 
