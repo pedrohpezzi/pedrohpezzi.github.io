@@ -11,6 +11,4 @@ I am currently a postdoctoral fellow in Maribeth Latvis' lab at the University o
 
 I am originally from Brazil and grew up in Caxias do Sul, Rio Grande do Sul, the southernmost state in Brazil. Later, I moved to Porto Alegre (in the same state) to study Biology at the Universidade Federal do Rio Grande do Sul (UFRGS), where I earned a teaching degree in 2018 and a bachelor's degree in 2019. Also in 2019, I joined Dr. Loreta Freitas' lab at the same university for my Ph.D., where I explored the role of hybridization in the diversification of *Petunia* species.
 
-My research interests include phylogenomics, plant evolution, hybridization, and population genetics. I am also committed to fostering an inclusive and diverse scientific community. 🏳️‍🌈🪴🔬
-
-Outside of academia, I enjoy reading thrillers and mysteries, listening to pop music, swimming, board games and exploring new places around the world.
+My research interests include phylogenomics, plant evolution, hybridization, and population genetics. Outside of academia, I enjoy reading thrillers and mysteries, listening to pop music, swimming, board games and exploring new places around the world.
