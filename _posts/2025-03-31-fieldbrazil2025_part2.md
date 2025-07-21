@@ -32,8 +32,7 @@ Dr. Latvis joined Leo and me for the second part of the trip! Our first stop was
 </div>
 
 We continued our fieldwork by hiking two of the highest peaks in Brazil, both home to rare and endemic *Agalinis* species. Our first stop was Pico do Itambé, standing at 2,052 m in elevation (#30 in Brazil), where the rare *A. itambensis* can be found. From there, we drove to the border of Espírito Santo to reach Pico da Bandeira, the third-highest peak in Brazil at 2,891 m, which is home to another rare species, *A. bandeirensis*.
-Of course, no fieldwork is complete without a flat tire, and we got our share of that! After a quick fix, we continued driving south, where we met Tulio, an old friend of Maribeth from her PhD fieldwork days in Brazil. Our final stop was Itatiaia National Park, where we found *Esterhazya eitenorum*.
-It was a very successful field trip, the size of our plant press does not lie! Cheers to that!!!! I cannot thank everyone enough who helped us along the way. A special thanks to the BHCB herbarium staff for their support with our vouchers, the National Park staff for helping with permits, and the hotel staff who helped us with the flat tire—ahaha!
+Of course, no fieldwork is complete without a flat tire, and we got our share of that! After a quick fix, we continued driving south to our final stop in Itatiaia National Park, where we found *Esterhazya eitenorum*. It was a very successful field trip, the size of our plant press does not lie! Cheers to that!!!! I cannot thank everyone enough who helped us along the way. A special thanks to the BHCB herbarium staff for their support with our vouchers, the National Park staff for helping with permits, and the hotel staff who helped us with the flat tire, ahaha!
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/images/BrazilFieldwork69.JPG" width="375" style="margin: 5px;">
