@@ -13,7 +13,7 @@ author_profile: true
 &ensp; &nbsp; &nbsp; Citations: 81; h-index: 5
 
 ## 2025
-[**15.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, xxx, boaf060. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
+[**15.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 208, boaf060. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
 
 [**14.**](https://doi.org/10.1016/j.ympev.2025.108405) Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. (2025). Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*, 211, 108405. doi: 10.1016/j.ympev.2025.108405 <small>\*These authors contributed equally to this work</small>
 
