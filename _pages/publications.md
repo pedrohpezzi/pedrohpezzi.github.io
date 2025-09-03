@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on August 05, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on September 03, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 101; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 110; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on August 05, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on September 03, 2025) 
 
-&ensp; &nbsp; &nbsp; Citations: 81; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 82; h-index: 5
 
 ## 2025
 [**15.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 208, boaf060. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
@@ -49,5 +49,6 @@ author_profile: true
 [**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, e2019010. doi: 10.1590/2358-2936e2019010
 
 ## Submitted
+**Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. *submitted*. ‘Dispersification’ of *Agalinis* (Orobanchaceae) into South America is associated with hummingbird pollination and perennial life history shifts.
 
 **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Genomic insights into atypical *Petunia* populations from a biodiversity hotspot in the South American grasslands.
