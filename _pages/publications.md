@@ -13,6 +13,8 @@ author_profile: true
 &ensp; &nbsp; &nbsp; Citations: 97; h-index: 5
 
 ## 2025
+**17.** **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *accepted*. Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*.
+
 [**16.**](https://doi.org/10.1101/2025.11.21.689784) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. *preprint*. ‘Dispersification’ of *Agalinis* (Orobanchaceae) into South America is associated with hummingbird pollination and perennial life history shifts.
 
 [**15.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 208, boaf060. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
@@ -49,6 +51,3 @@ author_profile: true
 
 ## 2019
 [**1.**](https://doi.org/10.1590/2358-2936e2019010) **Pezzi, P. H.**, Araujo, P. B., & Wood, C. T. (2019). Coprophagy in detritivores: methodological design for feeding studies in terrestrial isopods (Crustacea, Isopoda, Oniscidea). *Nauplius*, 27, e2019010. doi: 10.1590/2358-2936e2019010
-
-## Submitted
-**Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *submitted*. Genomic insights into atypical *Petunia* populations from a biodiversity hotspot in the South American grasslands.
