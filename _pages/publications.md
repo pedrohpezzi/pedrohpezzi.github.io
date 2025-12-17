@@ -13,7 +13,7 @@ author_profile: true
 &ensp; &nbsp; &nbsp; Citations: 97; h-index: 5
 
 ## 2025
-**17.** **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. *accepted*. Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*.
+[**17.**](https://doi.org/10.1093/aob/mcaf329)  **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. (2025). Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*, mcaf329. doi: 10.1093/aob/mcaf329
 
 [**16.**](https://doi.org/10.1101/2025.11.21.689784) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. *preprint*. ‘Dispersification’ of *Agalinis* (Orobanchaceae) into South America is associated with hummingbird pollination and perennial life history shifts.
 
