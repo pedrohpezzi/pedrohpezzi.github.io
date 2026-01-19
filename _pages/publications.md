@@ -13,7 +13,7 @@ author_profile: true
 &ensp; &nbsp; &nbsp; Citations: 97; h-index: 5
 
 ## 2026
-[**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
+[**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. doi: 10.1111/jbi.70143 [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
 
 ## 2025
 [**16.**](https://doi.org/10.1093/aob/mcaf329)  **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. (2025). Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*, mcaf329. doi: 10.1093/aob/mcaf329
