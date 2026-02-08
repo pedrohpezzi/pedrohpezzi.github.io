@@ -12,6 +12,9 @@ author_profile: true
 
 &ensp; &nbsp; &nbsp; Citations: 97; h-index: 5
 
+## Submitted
+[**18.**](https://doi.org/10.64898/2026.02.04.703813)   **Pezzi, P. H.** & Latvis, M. *preprint*. Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *bioRxiv*. doi: 10.64898/2026.02.04.703813
+
 ## 2026
 [**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. doi: 10.1111/jbi.70143 [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
 
