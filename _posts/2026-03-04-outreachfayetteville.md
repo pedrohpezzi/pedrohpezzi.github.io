@@ -1,5 +1,5 @@
 ---
-title: 'Outreach in Fayetteville Schools'
+title: 'Science Outreach at Fayetteville Schools'
 date: 2026-03-04
 permalink: /posts/2026/03/outreach_fayetteville/
 ---
