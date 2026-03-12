@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on November 25, 2025) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on March 12, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 119; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 134; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on November 25, 2025) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on March 12, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 97; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 106; h-index: 5
 
 ## Submitted
 [**18.**](https://doi.org/10.64898/2026.02.04.703813)   **Pezzi, P. H.** & Latvis, M. *preprint*. Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *bioRxiv*. doi: 10.64898/2026.02.04.703813
@@ -18,10 +18,10 @@ author_profile: true
 ## 2026
 [**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. doi: 10.1111/jbi.70143 [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
 
-## 2025
-[**16.**](https://doi.org/10.1093/aob/mcaf329)  **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. (2025). Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*, mcaf329. doi: 10.1093/aob/mcaf329
+[**16.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 210, 255–266. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
 
-[**15.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 208, boaf060. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
+## 2025
+[**15.**](https://doi.org/10.1093/aob/mcaf329)  **Pezzi, P. H.**, Gonçalves, L. T., Backes, A., Giudicelli, G. C., Turchetto, C., Bombarely, A., & Freitas, L. B. (2025). Genomic insights into the rapid diversification of *Petunia* in a biodiversity hotspot in the South American grasslands. *Annals of Botany*, mcaf329. doi: 10.1093/aob/mcaf329
 
 [**14.**](https://doi.org/10.1016/j.ympev.2025.108405) Backes, A.\*, Gonçalves, L. T.\*, **Pezzi, P. H.**, & Freitas, L. B. (2025). Phylogenomics reveals taxonomic challenges in *Calibrachoa* (Solanaceae) and sheds light on the origins of cultivated million bells. *Molecular Phylogenetics and Evolution*, 211, 108405. doi: 10.1016/j.ympev.2025.108405 <small>\*These authors contributed equally to this work</small>
 
