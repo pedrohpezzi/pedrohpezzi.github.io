@@ -4,18 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on March 12, 2026) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 15, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 134; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 148; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on March 12, 2026) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 15, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 106; h-index: 5
-
-## Submitted
-[**18.**](https://doi.org/10.64898/2026.02.04.703813)   **Pezzi, P. H.** & Latvis, M. *preprint*. Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *bioRxiv*. doi: 10.64898/2026.02.04.703813
+&ensp; &nbsp; &nbsp; Citations: 111; h-index: 5
 
 ## 2026
+**18.** **Pezzi, P. H.** & Latvis, M. *accepted*. Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *Genome Biology and Evolution*. [*preprint*](https://doi.org/10.64898/2026.02.04.703813)
+
 [**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. doi: 10.1111/jbi.70143 [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
 
 [**16.**](https://doi.org/10.1093/botlinnean/boaf060) **Pezzi, P. H.**\*, Schnitzler, C. K.\*, Giudicelli, G. C., Turchetto, C., Bombarely, A., Bonatto, S., & Freitas, L. B. (2025).  Population structure and genetic diversity uncover hidden speciation in an atypical *Petunia* (Solanaceae) population. *Botanical Journal of the Linnean Society*, 210, 255–266. doi: 10.1093/botlinnean/boaf060  <small>\*These authors contributed equally to this work</small>
