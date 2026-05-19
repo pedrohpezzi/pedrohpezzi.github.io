@@ -4,16 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 15, 2026) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 19, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 148; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 1508; h-index: 5
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 15, 2026) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 19, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 111; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 113; h-index: 5
 
 ## 2026
-**18.** **Pezzi, P. H.** & Latvis, M. *accepted*. Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *Genome Biology and Evolution*. [*preprint*](https://doi.org/10.64898/2026.02.04.703813)
+[**18.**](https://doi.org/10.1093/gbe/evag116) **Pezzi, P. H.** & Latvis, M. (2026). Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *Genome Biology and Evolution*, evag116. doi: 10.1093/gbe/evag116 [*preprint*](https://doi.org/10.64898/2026.02.04.703813)
 
 [**17.**](https://doi.org/10.1111/jbi.70143) **Pezzi, P. H.**, Soltis, P. S., Soltis, D. E., & Latvis, M. (2026). ‘Dispersification’ of *Agalinis* (Orobanchaceae) Into South America Is Associated With Hummingbird Pollination and Perennial Life-History Shifts. *Journal of Biogeography*, 53, e70143. doi: 10.1111/jbi.70143 [*preprint*](https://doi.org/10.1101/2025.11.21.689784)
 
