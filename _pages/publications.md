@@ -6,7 +6,7 @@ author_profile: true
 
 [**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on May 19, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 1508; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 150; h-index: 5
 
 [**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on May 19, 2026) 
 
