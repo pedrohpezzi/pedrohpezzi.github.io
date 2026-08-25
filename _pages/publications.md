@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on June 17, 2026) 
+[**Google Scholar**](https://scholar.google.com/citations?user=NiOZDJIAAAAJ&hl=en) (accessed on August 24, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 154; h-index: 6
+&ensp; &nbsp; &nbsp; Citations: 161; h-index: 6
 
-[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on June 17, 2026) 
+[**Web of Science**](https://www.webofscience.com/wos/author/record/GQQ-2544-2022) (accessed on August 24, 2026) 
 
-&ensp; &nbsp; &nbsp; Citations: 117; h-index: 5
+&ensp; &nbsp; &nbsp; Citations: 121; h-index: 6
 
 ## 2026
 [**18.**](https://doi.org/10.1093/gbe/evag116) **Pezzi, P. H.** & Latvis, M. (2026). Chromosome-level reference genome of the beach false foxglove, *Agalinis fasciculata* (Orobanchaceae). *Genome Biology and Evolution*, 18, evag116. doi: 10.1093/gbe/evag116 [*preprint*](https://doi.org/10.64898/2026.02.04.703813)
