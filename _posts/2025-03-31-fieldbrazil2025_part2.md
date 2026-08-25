@@ -5,7 +5,13 @@ permalink: /posts/2025/03/fieldbrazil2025_part2/
 tags:
 ---
 
-Dr. Latvis joined Leo and me for the second part of the trip! Our first stop was Serra do Cipó National Park, where we found *Esterhazya nanuzae* and *Agalinis brachyphylla*. We also admired a waterfall where Maribeth had collected *A. angustifolia* more than ten years ago, but unfortunately, we did not find the population this time (at least not flowering). We then continued north through Minas Gerais, visiting Sempre-Vivas National Park, where we had the amazing help of Norton, who drove us through some challenging roads and helped us search for plants. After a major thunderstorm, we successfully found our first population of *A. angustifolia*! We also explored the city of Diamantina, known for its beautiful architecture and very steep, narrow streets. Before leaving Diamantina for our next stop, we explored the surrounding region and found more *A. brachyphylla* and *A. angustifolia* populations.
+<div style="text-align: center; margin-top: 10px;">
+  <img src="/images/brazilfield_horizontal2.jpg" width="700">
+</div>
+
+Dr. Latvis joined Leo and me for the second part of the trip! 
+
+Our first stop was Serra do Cipó National Park, where we found *Esterhazya nanuzae* and *Agalinis brachyphylla*. We also visited a waterfall where Maribeth had collected *A. angustifolia* more than ten years ago, but we did not find the population there this time,but we did find a new population of *A. brachyphylla*. We continued north through Minas Gerais, visiting Sempre-Vivas National Park, where we had the amazing help of Norton, who drove us through some very rough roads and helped us search for plants. After a major thunderstorm, we successfully found our first population of *A. angustifolia*! We also explored the city of Diamantina, known for its beautiful architecture and very steep and narrow streets (Thank you Maribeth for being our driver!). Before leaving Diamantina for our next stop, we explored the surrounding region and found more *A. brachyphylla* and *A. angustifolia* populations.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/images/BrazilFieldwork48.JPG" width="375" style="margin: 5px;">
@@ -31,8 +37,8 @@ Dr. Latvis joined Leo and me for the second part of the trip! Our first stop was
   <img src="/images/BrazilFieldwork68.JPG" width="375" style="margin: 5px;">
 </div>
 
-We continued our fieldwork by hiking two of the highest peaks in Brazil, both home to rare and endemic *Agalinis* species. Our first stop was Pico do Itambé, standing at 2,052 m in elevation (#30 in Brazil), where the rare *A. itambensis* can be found. From there, we drove to the border of Espírito Santo to reach Pico da Bandeira, the third-highest peak in Brazil at 2,891 m, which is home to another rare species, *A. bandeirensis*.
-Of course, no fieldwork is complete without a flat tire, and we got our share of that! After a quick fix, we continued driving south to our final stop in Itatiaia National Park, where we found *Esterhazya eitenorum*. It was a very successful field trip, the size of our plant press does not lie! Cheers to that!!!! I cannot thank everyone enough who helped us along the way. A special thanks to the BHCB herbarium staff for their support with our vouchers, the National Park staff for helping with permits, and the hotel staff who helped us with the flat tire, ahaha!
+We continued our fieldwork by hiking two of the highest peaks in Brazil, both home to rare and endemic *Agalinis* species. Our first stop was Pico do Itambé at 2,052 m in elevation (#30 in Brazil), where the endemic *A. itambensis* can be found. From there, we drove to the border of Espírito Santo to reach Pico da Bandeira, the third-highest peak in Brazil at 2,891 m, which is home to another endemic species, *A. bandeirensis*.
+Of course, no fieldwork is complete without a flat tire, and we got our share of that! After a quick fix, we continued driving south to our final stop in Itatiaia National Park, where we found *Esterhazya eitenorum*. It was a very successful field trip, the size of our plant press does not lie! I cannot thank everyone enough who helped us along the way. A special thanks to the BHCB herbarium staff for their support with our vouchers, the National Park staff for helping with permits, and the hotel staff who helped us with the flat tire ahaha! Obrigado!!! 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/images/BrazilFieldwork69.JPG" width="375" style="margin: 5px;">
